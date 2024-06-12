@@ -1,5 +1,5 @@
 # SUMMER_INTERNSHIP
-### INTERNSHIP Training Repository
+### INTERNSHIP TRAINING Repository
 Material of Training Sessions of my Summer Internship took placed in Vidyavardhini's College of Engineering and Teechnology, Vassai (W).
 
 ### CONTENTS
